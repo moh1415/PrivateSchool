@@ -5,7 +5,7 @@ The project is an educational system aimed at schools, students and parents of t
 
 
 ### Deployed link:
-####SOON
+#### SOON
 
 
 
@@ -23,23 +23,9 @@ The project is an educational system aimed at schools, students and parents of t
 ![ERD](erd.png)
 
 ## UI
+    HOME Page
 ![HOME](Home.png)
-
+    Dashbord
 ![dashbord](adminDashbord.png)
-
+    Courses
 ![courses](courses.png)
-## Installation
-
-
-
-
-
-
-
-
-
-
-
-
-
-
